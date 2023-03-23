@@ -1,7 +1,7 @@
 {
-    "author": "Siva_kiran",
-    "name": "censorifyh5",
-    "version": "0.2.1",
+    "author": "Siva_kiran1",
+    "name": "sivapspk",
+    "version": "0.3.1",
     "description": "Censors words out of text",
     "main": "calc",
     "repository": {
@@ -12,9 +12,7 @@
         "censor",
         "calculator"
     ],
-    "dependencies": {
-        "express": "^4.18.2"
-    },
+    "dependencies": {},
     "engines": {
         "node": "*"
     }
