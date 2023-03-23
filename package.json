@@ -1,0 +1,21 @@
+{
+    "author": "Siva_kiran",
+    "name": "censorifyh5",
+    "version": "0.2.1",
+    "description": "Censors words out of text",
+    "main": "calc",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sivakiranuppala/studycalc926"
+    },
+    "keywords": [
+        "censor",
+        "words"
+    ],
+    "dependencies": {
+        "express": "^4.18.2"
+    },
+    "engines": {
+        "node": "*"
+    }
+}
